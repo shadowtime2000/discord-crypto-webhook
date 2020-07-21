@@ -1,0 +1,16 @@
+{
+  "name": "discord-crypto-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shadowtime2000",
+  "license": "MIT",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "discord.js": "^12.2.0"
+  }
+}

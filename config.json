@@ -1,0 +1,7 @@
+{
+  "webhookID": "",
+  "webhookToken": "",
+  "interval": 2,
+  "watchlist": ["ethereum", "bitcoin"],
+  "compare": ["usd", "eur"]
+}
